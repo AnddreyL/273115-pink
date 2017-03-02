@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Андрей Ложкин](https://up.htmlacademy.ru/adaptive/10/user/273115).
-* Наставник: Сергей Зубов.
+* Наставник: Сергей :) Зубов.
 
 ---
 
